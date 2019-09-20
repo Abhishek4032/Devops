@@ -1,0 +1,5 @@
+How to Fix “Username is not in the sudoers file. This incident will be reported”
+su -u (enter)
+type your password
+vi /etc/sudoers (enter)
+add your user in sudo list
